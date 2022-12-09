@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    background: #222;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url('/images/photo-1542838132-92c53300491e.avif');
+    font-size: 120%;
+}
+
